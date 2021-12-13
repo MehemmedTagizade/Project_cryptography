@@ -8846,11 +8846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahammad Tagizada\\Desktop\\Cryptography_project_MA\\Cryptography_project_MA.csproj",
+      "projectUniqueName": "C:\\Users\\Mahammad Tagizada\\Desktop\\Project_cryptography\\Cryptography_project_MA\\Cryptography_project_MA.csproj",
       "projectName": "Cryptography_project_MA",
-      "projectPath": "C:\\Users\\Mahammad Tagizada\\Desktop\\Cryptography_project_MA\\Cryptography_project_MA.csproj",
+      "projectPath": "C:\\Users\\Mahammad Tagizada\\Desktop\\Project_cryptography\\Cryptography_project_MA\\Cryptography_project_MA.csproj",
       "packagesPath": "C:\\Users\\Mahammad Tagizada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahammad Tagizada\\Desktop\\Cryptography_project_MA\\obj\\",
+      "outputPath": "C:\\Users\\Mahammad Tagizada\\Desktop\\Project_cryptography\\Cryptography_project_MA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahammad Tagizada\\AppData\\Roaming\\NuGet\\NuGet.Config",

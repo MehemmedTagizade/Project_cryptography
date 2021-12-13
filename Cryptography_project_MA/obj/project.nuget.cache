@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+ahxYYfLJhtPDT0Ces8INhoF1ztrGBe6dlXCDs8Hol3y833G1a/NXNxdqnnkMcT2NWtb+yp5pMWSMbIrV7Ulg==",
+  "dgSpecHash": "YfKuDFjTfH2oh7ygNDj8dckWgpzvZzaZpYylRbRG33+2BYO/hgutxrSQSPhJzxS9ZORR5224kUAQrc5sFsHbSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahammad Tagizada\\Desktop\\Cryptography_project_MA\\Cryptography_project_MA.csproj",
+  "projectFilePath": "C:\\Users\\Mahammad Tagizada\\Desktop\\Project_cryptography\\Cryptography_project_MA\\Cryptography_project_MA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahammad Tagizada\\.nuget\\packages\\mailkit\\2.15.0\\mailkit.2.15.0.nupkg.sha512",
     "C:\\Users\\Mahammad Tagizada\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.19\\microsoft.aspnetcore.cryptography.internal.3.1.19.nupkg.sha512",

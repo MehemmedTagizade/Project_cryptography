@@ -84,7 +84,7 @@ namespace Cryptography_project_MA
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=account}/{action=Login}/{id?}");
+                    pattern: "{controller=home}/{action=index}/{id?}");
             });
         }
     }
