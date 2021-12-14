@@ -1,0 +1,134 @@
+*,
+::after
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    transform: scale(1.5);
+    position: relative;
+}
+
+#container-2{
+    position: relative;
+    left: 400px;
+    top: 140px;
+    border-radius: 10px;
+    padding: 10px 40px;
+    width: 800px;
+    height: 500px;
+    flex-direction: column;
+    box-shadow: 0 0 30px red;
+    background-color: hsl(0deg 0% 0% / 69%);
+
+}
+#container-2 button{
+    position: relative;
+    top: 100px;
+    right:100px;
+    margin-right: 20px;
+}
+#decryptedInput-1{
+    margin-top:10px;
+}
+#shiftInput {
+    background: transparent;
+    color: wheat;
+    border: 1px solid red;
+    outline: none;
+    cursor: pointer;
+    transform: scale(2);
+    width: 110px;
+    border-radius: 4px;
+}
+textarea{
+    background: transparent;
+    outline: none;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    height: 25px;
+    cursor: pointer;
+    color: wheat !important;
+}
+#reset{
+   
+    background-color: rgba(30, 30, 97, 0.486);
+    color: white !important;
+    margin: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 5px 10px -2px rgb(144, 4, 4);
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px !important;
+    width: 123px;
+    font-family: 'Times New Roman', Times, serif;
+
+  
+}
+#decrypt-btn {
+    background-color: rgba(30, 30, 97, 0.486);
+    color: white !important;
+    border-radius: 4px;
+    box-shadow: 0 5px 10px -2px rgb(144, 4, 4);
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 16px !important;
+    width: 123px;
+    font-family:  'Times New Roman', Times, serif;
+}
+
+#reset{
+    transform:  translate(30px,30px);
+}
+#decrypt-btn {
+    transform: translate(-16px,150px);
+}
+
+#encrypt-btn {
+    transform: translate(-160px,180px) scale(3);
+}
+
+
+#copyToClipBoard{
+    transform: translate(320px,120px) scale(3);
+}
+
+#encrypt-btn,#copyToClipBoard{
+border-radius: 2px;
+border: none;
+cursor: pointer;
+background-color: rgba(30, 30, 97, 0.486);
+color:white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 5px;
+padding: 4px 10px;
+
+
+}
+#shiftInput{
+    margin-bottom: 20px;
+}
+
+
+#container-1,#container-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
